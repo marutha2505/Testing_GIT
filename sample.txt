@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is C4D3-465C
+
+ Directory of C:\Users\mkrishna\Desktop\GITSamples
+
+07/20/2018  11:24 AM    <DIR>          .
+07/20/2018  11:24 AM    <DIR>          ..
+07/20/2018  11:24 AM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,827,165,184 bytes free
